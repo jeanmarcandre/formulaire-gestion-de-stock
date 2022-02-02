@@ -1,0 +1,46 @@
+div {
+    text-align: center;
+    justify-content: space-between;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+label {
+    color: blue;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 10px;
+
+}
+
+input {
+    text-align: center;
+    color: black;
+    height: 40px;
+    width: 300px;
+    font-size: 1.5rem;
+}
+
+button {
+    font-size: 2rem;
+    color: crimson;
+}
+
+
+#errorNewArticle {
+    background-color: red;
+    margin: 10px 450px;
+    padding: 5px;
+    font-size: 1.5rem;
+    border-radius: 50px;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    border: 1px solid blue;
+}
